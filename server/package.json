@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "streaming-tool backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthoVDO/streaming-tool.git"
+  },
+  "author": "AnthoVDO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthoVDO/streaming-tool/issues"
+  },
+  "homepage": "https://github.com/AnthoVDO/streaming-tool#readme"
+}
